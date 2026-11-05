@@ -4,7 +4,7 @@
 
 站点入口：**https://toolax.cn**
 
-共收录 114 个工具，按用途分类如下。
+共收录 115 个工具，按用途分类如下。
 
 ## 目录
 
@@ -117,6 +117,8 @@
 | [Cron 表达式解析](https://toolax.cn/tools/cron) | 解析 Cron 定时表达式，生成中文描述并计算执行时间 |
 | [HTML 预览器](https://toolax.cn/tools/html-preview) | 编写 HTML/CSS/JS，右侧沙箱实时渲染预览 |
 | [SQL 格式化](https://toolax.cn/tools/sql-formatter) | 在线美化 SQL 语句，支持 MySQL/PostgreSQL 等方言 |
+| [巨浪 AI Codex 额度追踪器](https://jvlangai.com/codex-reset) | 手填或粘贴 /status 校准每周窗口，对照用量与时间进度，查看倒计时并导出日历；个人记录保存在浏览器 |
+
 
 ### 文本处理
 
