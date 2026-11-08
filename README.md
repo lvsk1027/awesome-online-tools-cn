@@ -108,6 +108,7 @@
 | 工具 | 说明 |
 | --- | --- |
 | [JSON 工具](https://toolax.cn/tools/json) | 格式化、校验、压缩、YAML/CSV 互转、TypeScript 类型生成，一站式 JSON 处理 |
+| [BestJSON](https://bestjson.com/) | JSON 格式化、校验与比较，输入在浏览器本地处理，无需注册；严格格式化保留原始数字文本 |
 | [XML 工具箱](https://toolax.cn/tools/xml) | JSON 转 XML、XML 格式化压缩、XML 转 JSON，一站式 XML 处理 |
 | [编码工具箱](https://toolax.cn/tools/encoding) | Base64、URL、HTML、Unicode 编解码一站式工具箱 |
 | [URL 解析工具](https://toolax.cn/tools/url-parser) | 拆解链接结构，附带 encode/decode 编解码 |
