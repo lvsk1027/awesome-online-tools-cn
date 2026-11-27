@@ -212,6 +212,7 @@
 | [文件大小换算](https://toolax.cn/tools/file-size) | 字节、KB、MB、GB、TB 文件大小单位互转（1024 进制） |
 | [中国地图](https://toolax.cn/tools/china-map) | 点击省份进入下级行政区，支持缩放平移 |
 | [天地图](https://toolax.cn/tools/tianditu-map) | 矢量/影像/地形底图，支持省市范围下钻、地名搜索与我的地点 |
+| [StagePeek](https://stagepeek.live/zh-CN/) | 全球 201 座演唱会场馆 2D 选座图与 3D 舞台视野模拟器，游客免注册免费预览第 1 个座位 |
 
 ## 边界说明
 
